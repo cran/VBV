@@ -1,0 +1,12 @@
+cfbf165cf80f581f3c244f0458ad1f0c *DESCRIPTION
+228ca1a9043a0cfc56cebf934cf26485 *NAMESPACE
+66adcf3ec0aed5001e2f2e25046b671b *R/VBV.R
+69d7d2804cff944c375ffd709be39503 *README.md
+e9fb6821c2250760881d1af5958c8154 *man/decomposition.Rd
+a4685df9720580af7cdeac38a000cca6 *man/estimation.Rd
+bce4b2a7723f94dbc29cb93225e8f03d *man/examples/decomposition.R
+77650b67a50f097492725cecd005b397 *man/examples/estimation.R
+c91cf65298de8944d74b3b5e382f43fd *man/examples/moving.decomposition.R
+c44d28be08c60722548a8d987339a1c3 *man/examples/moving.estimation.R
+0d65f2696b2f6e76c808eb06f813be71 *man/moving.decomposition.Rd
+3bf6a8d0efab266a94f89753e73d2a90 *man/moving.estimation.Rd
